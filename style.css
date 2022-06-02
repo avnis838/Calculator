@@ -21,6 +21,7 @@ input{
     background-color: rgb(248, 241, 232);
 }
 #block{
+    align-items: center;
     background-color: antiquewhite;
     width: 345px;
     margin: auto;
