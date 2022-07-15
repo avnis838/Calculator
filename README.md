@@ -1,3 +1,5 @@
+#Demo
+link = https://avnis838.github.io/Calculator/
 # Calculator
 
 This is a basic calculator to solve expression with operands as '+','-','X','/','%','&','|','%'.
